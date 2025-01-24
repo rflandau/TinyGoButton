@@ -1,4 +1,4 @@
-# TinyGoButtonWrapper
+# TinyGo Button Wrapper
 Wrapper for adding functionality onto single pin buttons in TinyGo
 
 Built for use with the Adafruit Circuit Playground Express, but should (theoretically) work for any device with a single pin button.
